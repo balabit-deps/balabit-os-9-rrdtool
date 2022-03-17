@@ -1,0 +1,3 @@
+no-rpath-for-ruby
+breaks-long-man-lines
+0001-clear-LC_ALL-when-setting-LC_TIME-in-rpn2-test.patch
